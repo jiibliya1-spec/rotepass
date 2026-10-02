@@ -1,0 +1,17 @@
+{
+  "name": "Einbürgerungstest 460 – Deutsch + العربية",
+  "short_name": "Einbürgerungstest",
+  "description": "460 سؤال لاختبار الاندماج الألماني مع الترجمة بالعربية، امتحان تجريبي، وتتبع التقدم",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "lang": "de",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
